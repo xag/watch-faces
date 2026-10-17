@@ -1,16 +1,12 @@
 # Two Skies for the Redmi Watch 5 Active
 
-Paris above and Seoul below. Each city has its time, the colour of its sky (dawn, day, dusk or night), its sun or moon crossing that sky through the day, and in Arcade and Pop its skyline. Paris also has its seconds, the date, the temperature and the weather.
+Paris above and Seoul below, on two bright cards. Each city has its time, the colour of its sky (dawn, day, dusk or night), its skyline, and its sun or moon on a dotted arc crossing that sky through the day. Paris also has its seconds, the date, the temperature and the weather.
 
-![Two Skies: Arcade, Pop and Neon at 14:08 in Paris](two-skies.jpg)
+![Two Skies Pop at 08:12, 14:08 and 21:40 in Paris](two-skies-pop.jpg)
 
-Three looks, each a separate face:
+- [two-skies-pop.bin](two-skies-pop.bin)
 
-- [two-skies-arcade.bin](two-skies-arcade.bin): pixel art, over the skylines of Paris and Seoul.
-- [two-skies-pop.bin](two-skies-pop.bin): two bright cards, the sun or moon on a dotted arc over each city's skyline.
-- [two-skies-neon.bin](two-skies-neon.bin): each city's day as a glowing 24-hour line that its sun or moon rides along.
-
-To install one, see [how to install a face on this watch](../README.md).
+To install it, see [how to install a face on this watch](../README.md).
 
 ## What to expect
 
